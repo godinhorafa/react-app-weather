@@ -1,3 +1,7 @@
+# Preview
+
+![image](https://github.com/godinhorafa/react-app-weather/assets/63462531/e7f616cc-d02d-4c44-b6b2-abe0360dd79a)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
